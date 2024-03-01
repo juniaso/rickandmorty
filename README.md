@@ -1,7 +1,7 @@
 # Rick and Morty Character Explorer
 
 ## Introduction
-This Android app allows users to explore characters from the popular TV show "Rick and Morty," utilizing the Rick and Morty API. Users can navigate through character details, including names, statuses, and images.
+This Android app allows users to explore characters from the popular TV show "Rick and Morty," utilizing the Rick and Morty API. Users can navigate through character details, including names, statuses, and images. This project levarages the https://rickandmortyapi.com/ API
 
 ## Architecture
 The app is built using the Model-View-ViewModel (MVVM) architecture, leveraging LiveData for reactive UI updates. It uses Retrofit for API calls, Coil for image loading, and Jetpack Compose for the UI.
