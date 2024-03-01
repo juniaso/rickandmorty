@@ -50,3 +50,23 @@ This guide provides instructions on how to build and run the Rick and Morty Andr
 •	Use the "Next" and "Back" buttons to navigate through character details.
 •	Tap the "Home" button at any time to return to the welcome screen.
 
+# App Images
+Here's a screenshot of my project:
+
+<p float="left">
+  <img src="https://github.com/juniaso/rickandmorty/blob/master/images/home.jpeg?raw=true" width="200" />
+  <img src="https://github.com/juniaso/rickandmorty/blob/master/images/rick.jpeg?raw=true" width="200" /> 
+  <img src="https://github.com/juniaso/rickandmorty/blob/master/images/morty.jpeg?raw=true" width="200" />
+</p>
+<p float="left">
+  <img src="https://github.com/juniaso/rickandmorty/blob/master/images/summer.jpeg?raw=true" width="200" />
+  <img src="https://github.com/juniaso/rickandmorty/blob/master/images/beth.jpeg?raw=true" width="200" />
+  <img src="https://github.com/juniaso/rickandmorty/blob/master/images/jerry.jpeg?raw=true" width="200" />
+</p>
+
+
+
+
+
+
+
